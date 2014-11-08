@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+  	<meta charset="utf-8">
+    <style>
+      #header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;}
+      #section {
+    width:350px;
+    float:left;
+    padding:10px;}
+      #footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;}
+      .city {
+   margin: 5px;
+   padding: 15px;
+   width: 400px;
+   height: 500px;
+   border: 10px solid black;}
+      .city1 {
+   margin: 5px;
+   padding: 15px;
+   width: 400px;
+   height: 1000px;
+   border: 10px solid black;}
+      .city2 {
+   margin: 5px;
+   padding: 15px;
+   width: 400px;
+   height: 1000px;
+   border: 10px solid black;}
+      div.img {
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid #0000ff;
+    height: auto;
+    width: auto;
+    }
+       
+      
+      
+      
+    </style>
+    <body>
+      
+ <div id="header">
+          <a href="http://www.bronxsoftware.org">Homepage</a> | <a href="contact">contacts</a> | <a href="visit us.org">Visit us</a>
+        <a href="http://www.bronxsoftware.org"><img src="http://bronxsoftware.org/wp-content/uploads/2013/02/BASE-logo-name-horizontal-1.png" alt="Base's Logo"/> </a>
+       <img src="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-frc3/t31.0-8/c0.17.851.315/p851x315/1277814_381657255270171_820927847_o.jpg" alt="The amazin founding staff of BASE" style="width:304px;height:228px">
+      </div>
+      <div class="city">
+     <div id="section">
+      <h1>Seminar</h1>
+        <p>What is seminar?</p>
+        <blockquote><em>"According to me seminar is one of the most important classes at <strong>BASE</strong>. It is where most of my awesome memories are......."
+            <strong>Eram, Grade 10;</strong>
+        </em></blockquote>
+        <blockquote><em>It is a place where I can share/express my feelings......
+            <strong>Aisha, Grade 9;</strong>
+          </em></blockquote>
+        <p>Seminar is a social class at <strong>BASE</strong> where students check in the morning.Students also visit their seminar mid-day. The class size is usually 10-15 students.Students are able to express their feelings to their peers or talk about a problem whether it is academic or social. Students build their communication skills in seminar.</p>
+   <h4>As a group we interviewed Lou (a new teacher at <strong>BASE</strong>) and Stephina (one of the founding members of <strong>BASE</strong>) to figure out the teacher's point of view on seminar.</h4>
+      </div>
+      </div>
+      <div class ="img2">
+          <img src="http://www.jff.org/sites/default/files/The-Big-Idea-3-B_0.jpg"/>
+      </div>
+     <div class="city1">
+       <h1>Here is Lou's response:</h1>
+        <p>What is your role in <strong>BASE</strong>?</p>
+         <blockquote><em>"ELA teacher, Fitness Club moderator, and alongside Stephina, I coordinated seminars in October".</em></blockquote>
+       <p>How can we (student<blockquote><em>"ELA teacher, Fitness Club moderator, and alongside Stephina, I coordinated seminars in October".</em></blockquote>s/parents/teachers) contact you?
+       <blockquote><em>"Lou@bronxsoftware.org; I also rely on pigeons to carry mail. You can fly things to room 512."</em></blockquote>
+        <p>How is your experiance in <strong>BASE</strong> till now?</p>
+      <blockquote><em>"So far, my experience at <strong>BASE</strong> has been amazingly rewarding. My colleagues are a dynamic, open-minded group, and the students are a lively bunch, full of engaging questions and insights."</em></blockquote>
+        <p>What is your role in <strong>BASE</strong>?</p>
+        <blockquote><em>"ELA teacher, Fitness Club moderator, and alongside Stephina, I coordinated seminars in October".</em></blockquote>
+       <p>What is your opinion on circles(restorative justice)?</p>
+        <blockquote><em>"Restorative Justice champions awareness and accountability, two mindsets that create thoughtful citizens. Restorative Justice develops a palpable sense of respect and reciprocity in the hallways and classrooms at <strong>BASE."</strong></em></blockquote>
+        <p>What are some classroom norms that are important to you?</p>
+        <blockquote><em>"My top two norms: one-mic and accountable talk. I love it when my class creates and leads a discussion."</em></blockquote>
+        <p>According to you why is seminar important?</p>
+        <blockquote><em>"Seminar sculpts and refines emotional and social intelligence. Simply, it's an invaluable experience. I wish I had an opportunity to take seminar when I was in high school."</em></blockquote>
+       <div class="img">
+        <img src="https://erammbasecssection2.files.wordpress.com/2014/11/waffle.jpg?w=500&h=225" alt="Lou's seminar @ BASE"/>
+       </div>
+       </div>
+      <div class="city2">
+        <h1>Stephina's Response!!!</h1>
+         <p>What is your role in <strong>BASE?</strong></p>
+        <blockquote><em>"My role is an educator of Social Studies, especially Global History, and Seminar Teacher. I serve as the Chapter Leader of the United Federation of Teachers, School Leadership Team, Vision Committee (Lou is also on vision), Innovations in Design Thinking Pilot, Digital Ready Curriculum Liaison, Peer Tutoring Liaison and Mastery-Based Grading pilot."</em></blockquote>
+    
+      <p>According to you why is seminar important?</p>  
+      <blockquote><em>"Seminar is most important because it is a space where we begin to build bonds as a community. In seminar, we are groups that belong to our <strong>BASE</strong> community: We put our voice into the student council, we share stories about our lives, we share with our Mentors, we celebrate birthdays and school celebrations, we learn and practice what it means to be a student at <strong>BASE.</strong> Seminar like the Core or heart of <strong>BASE</strong>."</em></blockquote>     
+        <p>What is your opinion on circles(restorative justice)?</p>
+       <blockquote><em>"My opinion is that we/humans/people/us tend to stick to our own opinions on the "he said/she said," so circles and restorative justice help us take a step back from our personal opinions and try to hear out or empathize with different perspectives. The point is NOT to always agree on "who is to blame" or "who is right or wrong"; the point is to realize that we all want respect (and love), and therefore we can avoid conflicts by talking about "triggers" and setting guidelines that outline what we need to feel respected and safe.
+<br/>
+Regardless of my opinion, evidence shows that restorative practices work when trying to resolve conflict or respond to "disciplinary issues." It's important that our community continues to practice circles when an injustice has occurred so that everyone who is impacted can be heard, and so that we can believe and trust in the process. Also it will be important that we begin to establish our own Peer Mediation council so that students can be a bigger part of our restorative practices at <strong>BASE!</strong>
+"</em></blockquote>
+      </div>
+
+      
+   <div id="footer">
+      copyright &copy 2014 BASE | <a href="http://www.afsenyc.org">Visit our sister school's site</a> | <a href="http://www.bronxsoftware.org">Go back to the home page!</a>
+      </div>
+      
+      
+    </body>
+  </head>
+  </html>
+    
