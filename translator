@@ -1,0 +1,91 @@
+<html>
+    <head>
+    <style>
+    div#Shoutout{
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0; 
+    }
+    html
+    {
+        background-color : #F8F8FF;
+    }
+  body
+  {
+      color : green;
+  }
+  blockquote
+  {
+      color :black;
+  }
+  response
+  {
+      color :purple;
+  }
+    </style>
+    <header>
+        <title>Seminar</title>
+        <a href="http://www.bronxsoftware.org">página principal
+</a> | <a href="contact">contactos</a> | <a href="visit us.org">Nos visitan</a>
+        <a href="http://www.bronxsoftware.org"><img src="http://bronxsoftware.org/wp-content/uploads/2013/02/BASE-logo-name-horizontal-1.png" alt="Base's Logo"/> </a>
+        <img src="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-frc3/t31.0-8/c0.17.851.315/p851x315/1277814_381657255270171_820927847_o.jpg" alt="The amazing founding staff of BASE"/>
+        </head>
+        </header>
+    <body>
+        <h1>Seminar</h1>
+        <p>¿Qué es seminario</p>
+        <blockquote><em>"De acuerdo a mi seminario es una de las clases más importantes de la <strong>base</strong> que es donde la mayoría de mis recuerdos son impresionantes ... " <strong>Eram, grado 10;</strong>
+        </em></blockquote>
+        <blockquote><em>Es un lugar donde puedo compartir.....
+            <strong>Aisha, Grado 9;</strong>
+        </em></blockquote>
+        <p>Seminario es una clase social <strong>BASE</strong> Cuando los estudiantes en la mañana.los estudiantes también visitar su seminario de medio día. el tamaño de la clase es generalmente 10-15 estudiantes.los estudiantes son capaces de expresar sus sentimientos a sus amigos, o hablar de un problema si es académico o social. los estudiantes pueden desarrollar sus habilidades de comunicación seminario.
+</p>
+        <h4>Como grupo nos hemos entrevistado lou (un nuevo profesor de <strong>BASE</strong>) y stephina (Uno de los miembros fundadores de <strong>BASE</strong>) la figura de la maestra del punto de vista de seminario.</h4>
+        <h1>Aquí la respuesta es lou:</h1>
+       <response> <p>¿Cuál es su papel en <strong>BASE</strong>?</p>
+        <blockquote><em>"Ela maestro, club de fitness moderador, y junto a stephina, coordinado seminarios en octubre".</em></blockquote>
+        <p>¿Cómo podemos (estudiantes / padres / maestros) en contacto con usted ?</p>
+        <blockquote><em>"Lou@bronxsoftware.org ; yo también dependen de las palomas mensajeras para transportar correo. puede hacer volar los objetos de la habitación 512."</em></blockquote>
+        <p>¿Cómo es su experiencia en la <strong>Base</strong> hasta ahora</p>
+        <blockquote><em>"Hasta ahora, mi experiencia en <strong>BASE</strong> ha sido increíblemente gratificante. mis colegas son una dinámica, de mentalidad abierta, y los estudiantes son un animado grupo, lleno de preguntas y comentarios."</em></blockquote>
+        <p>¿Tiene base tienen un impacto en su vida? En caso afirmativo, ¿cómo?</p>
+        <blockquote><em>"<strong>BASE</strong> está transformando mis aproximaciones a la comunicación y la escucha . El Design Thinking marco , la empatía y definir específicamente , informa mis actividades diarias y las formas en que me relaciono con los amigos, familia , colegas y estudiantes " .</em></blockquote>
+        <p>¿Cuál es su opinión sobre los círculos ( justicia restaurativa ) ?</p>
+        <blockquote><em>"Justicia Restaurativa conciencia campeones y la rendición de cuentas , dos mentalidades que crean ciudadanos reflexivos . Justicia Restaurativa se desarrolla una palpable sensación de respeto y reciprocidad en los pasillos y las aulas a <strong> BASE " . </strong ></em></blockquote>
+        <p>¿Cuáles son algunas de las normas de aula que son importantes para usted ?</p>
+        <blockquote><em>"Mis dos mejores normas : un micrófono y hablar responsables . Me encanta cuando mi clase crea y conduce una discusión . "</em></blockquote>
+        <p>Según usted ¿por qué es importante seminario ?</p>
+        <blockquote><em>"Seminario esculpe y afina la inteligencia emocional y social . Simplemente , es una experiencia muy valiosa . Me gustaría tener la oportunidad de tomar seminario cuando estaba en la escuela secundaria."</em></blockquote>
+        <h1>Respuesta de Stephina!!!</h1>
+        <p>¿Cuál es su papel en <strong> BASE ? </strong></p>
+        <blockquote><em>"Mi papel es un educador de Estudios Sociales, Historia Mundial , y especialmente Seminario Maestro . Sirvo como el Líder Capítulo de la Federación Unida de Maestros , Equipo de Liderazgo Escolar , Comité de la Visión ( Lou también está en la visión) , Innovaciones en Diseño Piloto Pensando , Digital Ready Currículo de Enlace , Peer Tutoring Enlace y Dominio de las calificaciones basado piloto ."</em></blockquote>
+        <p>¿Cómo podemos (estudiantes / padres / maestros) en contacto con usted ?</p>
+        <blockquote><em>Correo electrónico : Stephina@bronxsoftware.org</em></blockquote>
+        <p>¿Cómo es su experiancia en <strong> BASE </strong > hasta ahora?</p>
+        <blockquote><em>"En mi segundo año en la <strong> BASE , </strong> He visto el crecimiento de nuestro personal y estudiantes . Paso a paso nos estamos convirtiendo en la escuela que queremos ser en la graduación . Me siento honrado de seguir trabajando con los estudiantes del grado 10 este año, ya que me inspiran para mantener siempre una actitud positiva y encontrar la belleza , incluso en situaciones difíciles."</em></blockquote>
+       <p>¿El <strong> BASE </strong > tener un impacto en su vida? En caso afirmativo, ¿cómo?</p>
+       <blockquote><em>"Cuando vine a <strong> BASE </strong > , que ya había estado enseñando en el sur del Bronx durante 5 años. Venir a <strong> BASE </strong > proporcionado una gran oportunidad para mí para reflexionar sobre lo que significa ser un educador en una escuela nueva con un enfoque de ingeniería de software en el condado del Bronx de la ciudad de Nueva York . Estoy más afectados por la forma de trabajar con los jóvenes en el <strong> BASE </strong > me reta a ser claro acerca de lo que soy y lo que represento , al mismo tiempo ser claro sobre el hecho de que yo no tengo " todo las respuestas " : creamos juntos respuestas a través de la construcción de confianza y la solidaridad como comunidad . Creo en <strong> BASE </strong> los estudiantes y lo que estamos tratando de hacer aquí , y estoy agradecido a pasar muchas horas de mi vida con gente que me desafían a convertirse en una persona dinámica y un miembro comprometido de esta comunidad todos los días ."</em></blockquote>
+       <p>¿Cuál es su opinión sobre los círculos ( justicia restaurativa ) ?</p>
+       <blockquote><em>"Mi opinión es que nosotros / humanos / personas / nosotros tendemos a pegarse a nuestras propias opiniones sobre la " él dijo / ella dijo , " por lo que los círculos y la justicia restaurativa ayuda a dar un paso atrás de nuestras opiniones personales y tratamos de escuchar a cabo o empatizar con diferentes perspectivas . El punto no es estar de acuerdo siempre en " quién tiene la culpa " o " que es correcto o incorrecto " ; el punto es darse cuenta de que todos queremos respeto ( y el amor ) , y por lo tanto, puede evitar conflictos por hablar de " disparadores " y el establecimiento de directrices que describen lo que necesitamos para sentirse respetados y seguros .
+<br/>
+Independientemente de mi opinión , la evidencia muestra que las prácticas restaurativas funcionan cuando se trata de resolver los conflictos o responder a " cuestiones disciplinarias . " Es importante que nuestra comunidad continúa practicando círculos cuando se ha producido una injusticia , para que todo aquel que es impactado puede ser escuchado , y por lo que podemos creer y confiar en el proceso . También será importante que comencemos a establecer nuestro propio consejo de mediación entre compañeros para que los estudiantes pueden ser una parte más grande de nuestras prácticas restaurativas en <strong> BASE ! </strong >
+"</em></blockquote>
+      <p>Según usted ¿por qué es importante seminario ?</p>  
+      <blockquote><em>"Seminario es el más importante porque es un espacio en el que empezamos a construir lazos como comunidad . En el seminario , somos grupos que pertenecen a nuestra < strong> BASE < / strong > de la comunidad : Ponemos nuestra voz en el consejo estudiantil , compartimos historias sobre nuestras vidas , compartimos con nuestros mentores , celebramos los cumpleaños y celebraciones escolares , que aprender y practicar lo que significa ser un estudiante en la <strong> BASE . </strong > Seminario como el núcleo o corazón de <strong> BASE </strong > ."</em></blockquote>
+      </response>
+      <img src="https://erammbasecssection2.files.wordpress.com/2014/11/waffle.jpg?w=300&h=225" alt="Lou's seminar @ BASE"/>
+      <img src="http://www.jff.org/sites/default/files/The-Big-Idea-3-B_0.jpg" alt="Stephina with Mayor De Blasio..."/>
+    </body>
+    <footer>
+    <div id="Shoutout">
+        <span><h1><u> LA CAJA Shoutout</u></h1>
+        <p>Este es un grito oficial de salida a todos los nuevos maestros y personal BASE ! Estoy feliz de trabajar junto a un poderoso grupo de educadores tales . Preguntad por Allison y Jaunarie - Equipo Global ! GRITO GRANDE a mi seminario oreo oreo oreo OREO poptart ! y por estar siempre a tiempo y la creación de nuestro círculo <em> ... -Stephina @ BASE</em></p>
+        <p>Grita -outs a Equipo Inferencia y Equipo Savage, dos jugadores en tiempo grande en mi clase de ELA . Un gran saludo de salida a mi seminario , gofres. Waffle gofres gofres - galleta , galleta ! <em> - Lou @ BASE</em></p>
+        </span>
+    </div>
+    <br/>
+    copyright &copy 2014 BASE | <a href="http://www.afsenyc.org">Visite el sitio de nuestra escuela hermana</a> | <a href="http://www.bronxsoftware.org">Volver a la página de inicio !</a>
+    </footer>
+</html>
