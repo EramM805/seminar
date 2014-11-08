@@ -28,7 +28,7 @@
    margin: 5px;
    padding: 15px;
    width: 400px;
-   height: 2000px;
+   height: 1500px;
    border: 10px solid black;
    }
       .city2 {
@@ -37,13 +37,6 @@
    width: 400px;
    height: 1000px;
    border: 10px solid black;}
-      div.img {
-    margin: 5px;
-    padding: 5px;
-    border: 1px solid #0000ff;
-    height: auto;
-    width: auto;
-    }
     </style>
     <body>
       
