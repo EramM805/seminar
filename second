@@ -28,8 +28,9 @@
    margin: 5px;
    padding: 15px;
    width: 400px;
-   height: 1500px;
-   border: 10px solid black;}
+   height: 2500px;
+   border: 10px solid black;
+   }
       .city2 {
    margin: 5px;
    padding: 15px;
